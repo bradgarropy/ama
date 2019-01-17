@@ -1,10 +1,8 @@
-### ❔ Ask Me Anything!
+# ❔ Ask Me Anything!
 
-[Ask Questions][1] | [Read Answers][2]
------------------- | -----------------
+🗣 [Ask Questions][1] | 👓 [Read Answers][2]
+--------------------- | ---------------------
 
-- Ask questions
-- Read questions
 - Subscribe
 - Find me
 - Other AMAs
