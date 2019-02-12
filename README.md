@@ -22,7 +22,7 @@ Ask [someone else][8] a question!
 ### 🕺🏼 Create Your Own
 Think this is awesome? Want to make your own? [Do it!][9]
 
-### Credit
+### 🎞 Credit
 Inspired by @kentcdodds.  
 Originated from @sindresorhus.
 
