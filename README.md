@@ -23,8 +23,8 @@ Ask [someone else][8] a question!
 Think this is awesome? Want to make your own? [Do it!][9]
 
 ### 🎞 Credit
-Inspired by @kentcdodds.  
-Originated from @sindresorhus.
+Inspired by [@kentcdodds][10].  
+Originated from [@sindresorhus][11].
 
 
 [1]: https://github.com/bradgarropy/ama/issues/new
@@ -36,3 +36,5 @@ Originated from @sindresorhus.
 [7]: https://linkedin.com/in/bradgarropy
 [8]: https://github.com/sindresorhus/amas#ask-these-people-anything
 [9]: https://github.com/bradgarropy/ama/fork
+[10]: https://github.com/kentcdodds
+[11]: https://github.com/sindresorhus
