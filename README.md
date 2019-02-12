@@ -12,13 +12,15 @@ Answering questions via email provides value to only one person. Ask me anything
 You can find me on the internet in a few other places.  
 - [bradgarropy.com][4]  
 - [Twitter][5]
+- [Instagram][6]
+- [LinkedIn][7]
 
 ### 👥 Ask Them Anything
 Lots of other awesome people have AMAs.  
-Ask [someone else][6] a question!
+Ask [someone else][8] a question!
 
 ### 🕺🏼 Create Your Own
-Think this is awesome? Want to make your own? [Do it!][7]
+Think this is awesome? Want to make your own? [Do it!][9]
 
 ### Credit
 Inspired by @kentcdodds.  
@@ -30,5 +32,7 @@ Originated from @sindresorhus.
 [3]: https://github.com/bradgarropy/ama/subscription
 [4]: https://bradgarropy.com
 [5]: https://twitter.com/bradgarropy
-[6]: https://github.com/sindresorhus/amas#ask-these-people-anything
-[7]: https://github.com/bradgarropy/ama/fork
+[6]: https://instagram.com/bradgarropy
+[7]: https://linkedin.com/in/bradgarropy
+[8]: https://github.com/sindresorhus/amas#ask-these-people-anything
+[9]: https://github.com/bradgarropy/ama/fork
