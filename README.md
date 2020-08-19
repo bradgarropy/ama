@@ -1,42 +1,55 @@
 # ❔ Ask Me Anything
 
-🗣 [Ask Questions][1] | 👓 [Read Answers][2]
---------------------- | ---------------------
+| 🗣 [Ask Questions][ask-questions] | 👓 [Read Answers][read-answers] |
+| -------------------------------- | ------------------------------- |
+
 
 Answering questions via email provides value to only one person. Ask me anything here so everyone can benefit!
 
+### 📺 Livestreams
+
+Every **Monday @ 10PM CT** I answer these questions live on [Twitch][twitch]!  
+Afterwards I open the floor to chat and answer any additional questions.
+
 ### 🔔 Get Notified
-[Watch][3] the repository to be notified when your question is answered.
+
+[Watch][watch] the repository to be notified when your question is answered.
 
 ### 📍 Find Me
-You can find me on the internet in a few other places.  
-- [bradgarropy.com][4]  
-- [Twitter][5]
-- [YouTube][6]
-- [Instagram][7]
-- [LinkedIn][8]
+
+You can find me on the internet in a few other places.
+
+-   [bradgarropy.com][bg]
+-   [Twitter][twitter]
+-   [Twitch][twitch]
+-   [YouTube][youtube]
+-   [Instagram][instagram]
+-   [LinkedIn][linkedin]
 
 ### 👥 Ask Them Anything
+
 Lots of other awesome people have AMAs.  
-Ask [someone else][9] a question!
+Ask [someone else][amas] a question!
 
 ### 🕺🏼 Create Your Own
-Think this is awesome? Want to make your own? [Do it!][10]
+
+Think this is awesome? Want to make your own? [Do it!][fork]
 
 ### 🎞 Credit
-Inspired by [@kentcdodds][11].  
-Originated from [@sindresorhus][12].
 
+Inspired by [@kentcdodds][kcd].  
+Originated from [@sindresorhus][sindre].
 
-[1]: https://github.com/bradgarropy/ama/issues/new
-[2]: https://github.com/bradgarropy/ama/issues?q=is%3Aissue+is%3Aclosed
-[3]: https://github.com/bradgarropy/ama/subscription
-[4]: https://bradgarropy.com
-[5]: https://twitter.com/bradgarropy
-[6]: https://www.youtube.com/bradgarropy
-[7]: https://instagram.com/bradgarropy
-[8]: https://linkedin.com/in/bradgarropy
-[9]: https://github.com/sindresorhus/amas#ask-these-people-anything
-[10]: https://github.com/bradgarropy/ama/fork
-[11]: https://github.com/kentcdodds
-[12]: https://github.com/sindresorhus
+[ask-questions]: https://github.com/bradgarropy/ama/issues/new
+[read-answers]: https://github.com/bradgarropy/ama/issues?q=is%3Aissue+is%3Aclosed
+[watch]: https://github.com/bradgarropy/ama/subscription
+[bg]: https://bradgarropy.com
+[twitter]: https://twitter.com/bradgarropy
+[twitch]: https://twitch.tv/bradgarropy
+[youtube]: https://www.youtube.com/bradgarropy
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
+[amas]: https://github.com/sindresorhus/amas#ask-these-people-anything
+[fork]: https://github.com/bradgarropy/ama/fork
+[kcd]: https://github.com/kentcdodds
+[sindre]: https://github.com/sindresorhus
