@@ -41,7 +41,7 @@ Inspired by [@kentcdodds][kcd].
 Originated from [@sindresorhus][sindre].
 
 [ask-questions]: https://github.com/bradgarropy/ama/issues/new
-[read-answers]: https://github.com/bradgarropy/ama/issues?q=is%3Aissue+is%3Aclosed
+[read-answers]: https://github.com/bradgarropy/ama/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%E2%9C%85+answered%22
 [watch]: https://github.com/bradgarropy/ama/subscription
 [bg]: https://bradgarropy.com
 [twitter]: https://twitter.com/bradgarropy
