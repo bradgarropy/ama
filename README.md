@@ -4,7 +4,7 @@
 | -------------------------------- | ------------------------------- |
 
 
-Answering questions via email provides value to only one person. Ask me anything here so everyone can benefit!
+_Answering questions via email provides value to only one person. Ask me anything here so everyone can benefit!_
 
 ### 📺 Livestreams
 
